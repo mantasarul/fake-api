@@ -1,74 +1,74 @@
 [
     {
         "id": 1,
-        "Course Title": "Introduction to Web Development",
-        "Image": "https://i.ibb.co/410gthY/Rectangle-2.png",
-        "Description": "Learn the fundamentals of web development, including HTML, CSS, and JavaScript. Start building your own websites today.",
-        "Price": 49.99,
-        "Credit": 3
+        "title": "Introduction to Web Development",
+        "image": "https://i.ibb.co/410gthY/Rectangle-2.png",
+        "description": "Learn the fundamentals of web development, including HTML, CSS, and JavaScript. Start building your own websites today.",
+        "price": 49.99,
+        "credit": 3
     },
     {
         "id": 2,
-        "Course Title": "Machine Learning Fundamentals",
-        "Image": "https://i.ibb.co/hRZxKP4/Rectangle-2-1.png",
-        "Description": "Discover the basics of machine learning and AI. Dive into algorithms and start building intelligent applications.",
-        "Price": 59.99,
-        "Credit": 2
+        "title": "Machine Learning Fundamentals",
+        "image": "https://i.ibb.co/hRZxKP4/Rectangle-2-1.png",
+        "description": "Discover the basics of machine learning and AI. Dive into algorithms and start building intelligent applications.",
+        "price": 59.99,
+        "credit": 2
     },
     {
         "id": 3,
-        "Course Title": "Digital Marketing Masterclass",
-        "Image": "https://i.ibb.co/0cN2N8p/Rectangle-2-2.png",
-        "Description": "Become a digital marketing expert. Learn SEO, social media marketing, and PPC advertising strategies.",
-        "Price": 29.99,
-        "Credit": 5
+        "title": "Digital Marketing Masterclass",
+        "image": "https://i.ibb.co/0cN2N8p/Rectangle-2-2.png",
+        "description": "Become a digital marketing expert. Learn SEO, social media marketing, and PPC advertising strategies.",
+        "price": 29.99,
+        "credit": 5
     },
     {
         "id": 4,
-        "Course Title": "Financial Planning and Investment",
-        "Image": "https://i.ibb.co/SVq8k3t/Rectangle-2-3.png",
-        "Description": "Take control of your finances. Explore investment strategies, budgeting, and retirement planning.",
-        "Price": 89.99,
-        "Credit": 4
+        "title": "Financial Planning and Investment",
+        "image": "https://i.ibb.co/SVq8k3t/Rectangle-2-3.png",
+        "description": "Take control of your finances. Explore investment strategies, budgeting, and retirement planning.",
+        "price": 89.99,
+        "credit": 4
     },
     {
         "id": 5,
-        "Course Title": "Creative Writing Workshop",
-        "Image": "https://i.ibb.co/BP65dHG/Rectangle-2-4.png",
-        "Description": "Unlock your creativity through writing. Craft compelling stories and poems with expert guidance.",
-        "Price": 39.99,
-        "Credit": 1
+        "title": "Creative Writing Workshop",
+        "image": "https://i.ibb.co/BP65dHG/Rectangle-2-4.png",
+        "description": "Unlock your creativity through writing. Craft compelling stories and poems with expert guidance.",
+        "price": 39.99,
+        "credit": 1
     },
     {
         "id": 6,
-        "Course Title": "Data Science for Beginners",
-        "Image": "https://i.ibb.co/qgvHrNM/Rectangle-2-5.png",
-        "Description": "Get started with data science. Learn data analysis, visualization, and basic machine learning concepts.",
-        "Price": 44.99,
-        "Credit": 4
+        "title": "Data Science for Beginners",
+        "image": "https://i.ibb.co/qgvHrNM/Rectangle-2-5.png",
+        "description": "Get started with data science. Learn data analysis, visualization, and basic machine learning concepts.",
+        "price": 44.99,
+        "credit": 4
     },
     {
         "id": 7,
-        "Course Title": "Photography Mastery",
-        "Image": "https://i.ibb.co/xY0PpHp/Rectangle-2-6.png",
-        "Description": "Capture stunning photos. Master camera settings, composition, and post-processing techniques.",
-        "Price": 24.99,
-        "Credit": 3
+        "title": "Photography Mastery",
+        "image": "https://i.ibb.co/xY0PpHp/Rectangle-2-6.png",
+        "description": "Capture stunning photos. Master camera settings, composition, and post-processing techniques.",
+        "price": 24.99,
+        "credit": 3
     },
     {
         "id": 8,
-        "Course Title": "Artificial Intelligence Ethics",
-        "Image": "https://i.ibb.co/Mc4K5qd/Rectangle-3.png",
-        "Description": "Explore the ethical implications of AI. Discuss bias, privacy, and responsible AI development.",
-        "Price": 19.99,
-        "Credit": 1
+        "title": "Artificial Intelligence Ethics",
+        "image": "https://i.ibb.co/Mc4K5qd/Rectangle-3.png",
+        "description": "Explore the ethical implications of AI. Discuss bias, privacy, and responsible AI development.",
+        "price": 19.99,
+        "credit": 1
     },
     {
         "id": 9,
-        "Course Title": "Leadership and Management Skills",
-        "Image": "https://i.ibb.co/S0k6ByD/Rectangle-3-1.png",
-        "Description": "Develop leadership skills for success. Learn effective communication, teamwork, and decision-making.",
-        "Price": 69.99,
-        "Credit": 5
+        "title": "Leadership and Management Skills",
+        "image": "https://i.ibb.co/S0k6ByD/Rectangle-3-1.png",
+        "description": "Develop leadership skills for success. Learn effective communication, teamwork, and decision-making.",
+        "price": 69.99,
+        "credit": 5
     }
 ]
